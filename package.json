@@ -28,7 +28,7 @@
     "url": "https://github.com/peter-murray/node-hue-api/issues"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.26.0",
     "bottleneck": "^2.19.5",
     "get-ssl-certificate": "^2.3.3"
   },
